@@ -10,7 +10,7 @@ Given an input file with an arbitrary set of co-ordinates, the task is to use py
 This project attempts to classify geographical locations according to their predicted tree cover using Gradient Boosting and Random Forest classifiers.
 
 ### KMeans using Spark
-This project estimates intrinsic dimensions by calculating the Mean Squared Distance of the entire dataset to their representative centers. You will use the K-Means API in spark to find representative centers.
+This project estimates intrinsic dimensions by calculating the Mean Squared Distance of the entire dataset to their representative centers. We use the K-Means API in spark to find representative centers.
 
 ### Twitter Data Analysis
 This assignment covers a set of steps to analyze Twitter feed data.
